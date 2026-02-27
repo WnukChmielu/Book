@@ -436,6 +436,26 @@ nawigacji przez labirynt pomostów. Poza wrażeniami wizualnymi i zapachowymi st
 
 \-Nie wrócił z przepustki, teraz na gwałt szukają zastępstwa. Shane pokiwała głową. Trwająca wiele tygodni przeprawa przez ocean z samych suchym prowiantem wydawała się przerażająca. Dowiedziała się wszystkiego co chciała wiedzieć, przynajmniej na ten moment. Wstała od biurka i pozwoliła półelfowi odprowadzić się do swojej kajuty.
 
+
+Adam krążył zdenerwowany po nabrzeżu. Już jakiś czas temu porzucił pozory skrytości, z resztą z minuty na minutę wydawało mu się, że jego wcześniejsze próby nie rzucania się w oczy przynosiły wręcze przeciwny efekt. Uwijający się w pocie czoła dokerzy co chwila przeganiali go z kolejnych kryjówek za stertami skrzyń, wyśmiewając go za każdym razem głośniej i wulgarniej. Srebrny Kruk i towarzysząca mu flotylla zbierały się do drogi, a młody dziennikarz nie miał pojęcia jak dostać się na pokład. I gdzie do cholery był Jake? Mieli spotkać się prawie dwie godziny temu! 
+
+Załamany przysiadł na słupku i schował twarz w dłoniach. W jego głowie konkurowały ze sobą dwa scenariusze - albo wciśnie się do jednej z wnoszonych na pokład skrzyń, albo wróci do miasta i spróbuje się dowiedzieć co spotkało Jake'a. Perspektywa ukrywania się wśród ładunku Szarego Kruka i samodzielnego szukania bogowie wiedzą czego przerażała go, przez co druga, rozsądniejsza opcja jeszcze bardziej śmierdziała mu tchórzostwem. Tak jak wtedy na dworcu czuł, że powinien się wykazać, jednak myśl o tym, że na pokładzie statku miałoby wydarzyć się coś podobnego do tego co zobaczył wczoraj na dworcu przewracało mu się w żołądku. 
+
+Jego gonitwę myśli przerwał donośny brzęk metalu i głośne krasnoludzkie przekleństwa, które zdołały przebić portową wrzawę. Podniósł głowę i zobaczył przed sobą scenę, na którą absolutnie nie był przygotowany. Krasnolud, ten sam u którego jedli burrito pod dworcem zmywał głowę swojemu pomocnikowi. U ich stóp leżał potężny, kilkudziesięciolitrowy gar z którego smutno wylewało się czerwono brązowe chilli. Garnek spadł z czegoś, co zapewne było kuchnią polową przewożoną na naprędce przystosowanym do tego wozie. Wyrwany z niemocy Adam stwierdził, że takie spotkanie nie może być dziełem przypadku i podszedł do bordowego ze złości Karla. Ten, zaaferowany ratowaniem reszty potrawy zupełnie go niezauważył. 
+
+- Co tutaj robisz? - zapytał Adam, siląc się na niezobowiązujący ton, jednak krasnolud aż podskoczył. 
+- Ja? Co ty tutaj robisz dzieciaku? - niemal wykrzyczał krasnolud - Gdzie jest Jake? 
+- Skąd wiesz, że miał tutaj być? 
+- Nie praktykujesz u niego? - kucharz chyba zorientował się, że w złości powiedział trochę za dużo i spróbował się uspokoić - Myślałem, że nie możesz pierdnąć bez jego zgody
+- Mieliśmy się tutaj spotkać - przyznał młody dziennikarz - Ale chyba już tutaj nie dotrze. 
+- Czemu? - 
+
+
+
+
+
+
+
 Wyjście z redakcji -> ustalenie co dalej ze skrzynią -> wysłanie Adama rano do doków (scena kłótni rodzinnej, przerwana przez kuriera). -> Adam natyka się na krasnoluda z budki z tacos, razem trafiają na statek (krasnolud, szpieg światowiec zna się z załogą, daje radę wkręcić młodego do załogi) -> Adam poznaje się na statku z Shane
 
 Jakie powinne być wątki w akademii?
@@ -454,46 +474,5 @@ Rozmowa Shane z ciotką, może jakiś background o rodzicach, wątpliwości, św
 
 
 
-Rzeczy do zrobienia na 100%
-
-* nowe intro z introdukcją postaci starzejącego się maga, którego ciało zaczyna go zawodzić. Zdaje sobie sprawę z ryzyka, jednak  widzi siebie i swoich towarzyszy jako ostoję stabilności i uważa, że sprawa jest warta ryzyka.
-* ustalić co powinna znaleźć elfia ekspedycja - może wątek retrospekcji należy skrócić, a tym co powinno ich wybijać powinny być nadal krasnoludy, które po prostu zawahały się przed wejściem do doliny (przepisać scenę znalezienia ciała na znalezienie śladów obozowiska)
-* Mocniej zarysować postaci:
-  \-doświadczony reporter powinien być bardziej nieprzyjemnym bucem, takim stereotypowym bohaterem po przejściach, problemy z alkoholem, obskurne mieszkanie itp, szorstki dla nowego reportera
-  \-młoda półelfka gotową do poświęceń dla rozwiązania sprawy śmierci swoich rodziców, jednocześnie gardząca akademią (tutaj jednak zostawiłbym wątek pokusy przez władzę, powinny być jakieś podobieństwa do elfki z ekspedycji),
-  \-elfka z ekspedycji powinna być pchana do przodu obiecanym przez starszyznę awansem i władzą (może jest od lat pomijana w awansach, może przyłożyła rękę do śmierci niektórych ze swoich towarzyszy podczas drogi przez góry), pytanie czy ekspedycja ją czegoś nauczyła,
-  \-młody reporter powinien być niepewnym siebie chłopakiem, który uważa, że nic mu w życiu nie wychodzi (trzeba to jakoś mocniej wyrazić, patrz postać tego młodego lwa, może czasami trzeba uderzyć po prostu młotkiem, a nie zarysowywać to delikatnie)
-* na pewno przemyśleć historię świata, bo wydaje mi się kurwa głupia
-
-Jak powinna toczyć się historia?
-
-
-1. Wątek młodego reportera -
-2. Spotkanie krasnoluda z budy z żarciem który wchodzi na statek jako kucharz, namawia go (szantażuje?) do wzięcia go na pokład
-3. Śledztwo na pokładzie, naturalnie musi coś pójśc nie tak i zostaje przyłapany
-4. Młoda półelfka rozpoznaje jego aparat (chyba jedyny sposób w jaki można to powiązać), postanawia mu pomóc (jakieś ogrzewanie i nóż? albo nie wiem, przecieta lina przy balaście?)
-5. Młody zostaje uratowany przez następny statek, i decyduje się płynąć na stary kontynent (może elfka daje mu jakiś kontakt?)
-
-   \
-
-* Wątek starego reportera -
-
-
-
-1. Zaspał na spotkanie z młodym i przychodzi na spotkanie kiedy już obydwa statki odpłynęły
-2. Wbijając klina, kontaktuje się z nim krasnolud, przyjaciel z czasów starego kontynentu, który podrzuca mu pomysł podążania do stacji początkowej pociągu.
-3. na którejś stacji dowiaduje się o dwóch elfich trupach, i spotyka tajemniczą kobietę z zabandażowaną twarzą (to jest nasza elfka z retrospekcji)
-4. Elfka rozpoznaje go i opowiada historię (może przepisać te retrospekcje na pierwszą osobę? Sprawdzić jak to było zrobione w panie lodowego ogrodu)
-5. Czy stary powinien podążyć w głąb doliny z elfką? Może ta powinn nie rozumieć co tak naprawdę wyciągnęła?
-
-* Wątek młodej półelfki -
-
-
-
-1. Jest nieufna i podejrzliwa trafiając na statek.
-2. Akademia próbuje kupić jej zaufanie obiecując pełną dokumentację dotyczącą śmierci jej rodziców 8 lat temu i przyjęcie w szeregii akademii (może jej rodzice powinni umrzeć jako członkowie poprzedniej ekspedycji do doliny?)
-3. Bada zawartość skrzyni i uświadamia sobie z czym ma do czynienia
-4. Decyduje się ukrywać część ze swoich odkryć, jednak i tak zostaje przyjęte to z ogromnym entuzjazmem
-5. Zostaje przyjęta po królewsku i być może zaczyna widzieć swoją przyszłość wiążąc się z Akademią.
 
 
