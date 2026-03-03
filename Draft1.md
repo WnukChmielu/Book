@@ -447,7 +447,7 @@ Jego gonitwę myśli przerwał donośny brzęk metalu i głośne krasnoludzkie p
 - Ja? Co ty tutaj robisz dzieciaku? - niemal wykrzyczał krasnolud - Gdzie jest Jake? 
 - Skąd wiesz, że miał tutaj być? 
 - Nie praktykujesz u niego? - kucharz chyba zorientował się, że w złości powiedział trochę za dużo i spróbował się uspokoić - Myślałem, że nie możesz pierdnąć bez jego zgody
-- Mieliśmy się tutaj spotkać - przyznał młody dziennikarz - Ale chyba już tutaj nie dotrze. 
+- Mieliśmy się tutaj spotkać - przyznał młody dziennikarz - Ale chyba już dzisiaj nie dotrze. 
 - Czemu? - oczy krasnoluda zwęziły się - Coś się stało?
 - Nie wiem, czekam tutaj na niego chyba dwie godziny. Czemu cię to interesuje? 
 - Myślę, że ci sami ludzie którzy doprowadzili do tej pieprzonej katastrofy... - ruchem głowy wskazał na zmieszane z piachem chilli, które jego pomocnik zbierał za pomocą poobijanej pokrywki do garnka. - ... zaaranżowali wasze spotkanie tutaj. Mieliście obserowować Srebrnego Kruka? 
@@ -456,7 +456,26 @@ Adam skinął tylko głową. Odzyskujący naturalne kolory krasnolud przywołał
 Krasnolud tylko wzruszył ramionami.
 - Pomóż mi z tym bałaganem - poprosił głosem nieznoszącym przeciwu - A potem porozmawiamy trochę o twojej karierze.
 
-Posprzątanie całego bałaganu nie wchodziło nawet w grę - rozlanym na ziemii chili bardzo szybko zainteresowały mewy, które kiedy nie walczyły o smaczniejsze kąski między sobą, skutecznie współpracowały przy odstraszaniu człowieka i krasnoluda. Zrezygnowani, zapokawali garnek na wóz i ruszyli dalej. Adam zaczynał podejrzewać, że obecność Karla tutaj nie jest przypadkowa, jednak minęli zdobione burty Srebrnego Kruka bez słowa. Pchali wózek z kucnią polową coraz dalej, w głąb labiryntu bocznych pomostów przy których cumowały mniejsze jednostki. 
+Posprzątanie całego bałaganu nie wchodziło nawet w grę - rozlanym na ziemii chili bardzo szybko zainteresowały mewy, które kiedy nie walczyły o smaczniejsze kąski między sobą, skutecznie współpracowały przy odstraszaniu człowieka i krasnoluda. Zrezygnowani, zapokawali garnek na wóz i ruszyli dalej. Adam zaczynał podejrzewać, że obecność Karla tutaj nie jest przypadkowa, jednak minęli zdobione burty Srebrnego Kruka bez słowa. Pchali wózek z kuchnią polową coraz dalej, w głąb labiryntu bocznych pomostów przy których cumowały mniejsze jednostki. 
+
+Zatrzymali się przed okrętem, który, według Adama, miałby problemy z odbiciem od nabrzeża, a co dopiero z przebyciem drogi przez ocean. Bez żadnego sygnału ze statku opadł trap i zbiegł z niego zdenerwowany mężczyzna w oficerskim stroju. 
+- Nareszcie! Ile można czekać? - zawiesił głos i jakby po raz pierwszy zobaczył zawartość wózka - Co to ma być? Co ci strzeliło do tego krasnoludziego łba? 
+- Nie będę gotował na tym, co nazywacie na tej krypie kuchnią - spokojnie odpowiedział Karl - Wniesienie tego nie zajmie nam długo, a wam już to nie zrobi różnicy. 
+- Przyślę wam ludzi do pomocy - najwidoczniej oficer chciał już to mieć po prostu z głowy - jeszcze jedno opóźnienie, i będziemy musieli odpłynąć z wieczornym przypływem
+
+Karl wziął Adama na bok i pozwolił, żeby to marynarze szarpali się z wozem w górę trapu. 
+- Posłuchaj młody - zniżył głos do konspiracyjnego szeptu - Wiem po co mieliście się spotkać z Jakiem, szczerze mówiąc, miałem nadzieję że też się z nim spotkam przed wejściem na pokład...
+- Skrzynia z dworca wcale nie płynie Srebrnym Krukiem, prawda? - przerwał mu chłopak głosem, który z przejęcia wchodził w wysokie tony- Widziałem jak zaświeciły ci sie oczy, kiedy wspomniałem o symbolu. Co tak naprawdę wiesz?
+- Wystarczająco, żeby wiedzieć, że ta skrzynia nie powinna zejść z pokładu tego statku. 
+- Chcę wiedzieć, co jest w środku. Chcę wiedzieć, co jest na tyle ważne, żeby poświęcić życie tych wszystkich ludzi.
+- Jeżeli myślisz, że przez tą skrzynię zginęli tylko ludzie z wczoraj, to się grubo mylisz. Chciałeś się dostać na pokład Srebrnego Kruka? 
+- Nie wiedziałem jak - przyznał Adam - Nie wiedziałem nawet, czego tak naprawdę szukam, znaczy, wiedziałem że pewnie chodzi o tę skrzynię z dworcam, ale....
+- Spokojnie - krasnolud wciął się w ten nerwowy słowotok i podrapał się po policzku - Posłuchaj. Wiem, że byłeś wczoraj na peronie, mogę sobie wyobrazić co widziałeś. Taki widok potrafi wstrząsnać każdym. Czujesz, że to jest sprawa osobista?
+Adam zacisnął usta i tylko skinął głową. 
+- Masz 15 minut - wcisnął mu w dłoń parę miedziaków - przehandluj ubrania z jakimś dokerem, jak zdążysz, to zetnij włosy. Może kup jakąś czapkę, nie chcę żebyś się rzucał w oczy. Masz ze sobą aparat? 
+Znowu skinienie głową.
+- Schowaj go dobrze, najlepiej trzymaj go zawsze przy sobie. Będę tutaj czekał, jeżeli nie wrócisz zrozumiem. Znajdź wtedy Jake'a i zdaj mu dokładną relację. 
+- Wrócę - powiedział poważnym tonem Adam i pobiegł czym prędzej znaleźć sobie nowe ubranie.
 
 
 
