@@ -448,7 +448,15 @@ Jego gonitwę myśli przerwał donośny brzęk metalu i głośne krasnoludzkie p
 - Skąd wiesz, że miał tutaj być? 
 - Nie praktykujesz u niego? - kucharz chyba zorientował się, że w złości powiedział trochę za dużo i spróbował się uspokoić - Myślałem, że nie możesz pierdnąć bez jego zgody
 - Mieliśmy się tutaj spotkać - przyznał młody dziennikarz - Ale chyba już tutaj nie dotrze. 
-- Czemu? - 
+- Czemu? - oczy krasnoluda zwęziły się - Coś się stało?
+- Nie wiem, czekam tutaj na niego chyba dwie godziny. Czemu cię to interesuje? 
+- Myślę, że ci sami ludzie którzy doprowadzili do tej pieprzonej katastrofy... - ruchem głowy wskazał na zmieszane z piachem chilli, które jego pomocnik zbierał za pomocą poobijanej pokrywki do garnka. - ... zaaranżowali wasze spotkanie tutaj. Mieliście obserowować Srebrnego Kruka? 
+Adam skinął tylko głową. Odzyskujący naturalne kolory krasnolud przywołał swojego pomocnika i wysłał go pod adres w dzielnicy przylegającej do portu. 
+- To podła dzielnica - zauważył chłopak - Jake tam mieszka? 
+Krasnolud tylko wzruszył ramionami.
+- Pomóż mi z tym bałaganem - poprosił głosem nieznoszącym przeciwu - A potem porozmawiamy trochę o twojej karierze.
+
+Posprzątanie całego bałaganu nie wchodziło nawet w grę - rozlanym na ziemii chili bardzo szybko zainteresowały mewy, które kiedy nie walczyły o smaczniejsze kąski między sobą, skutecznie współpracowały przy odstraszaniu człowieka i krasnoluda. Zrezygnowani, zapokawali garnek na wóz i ruszyli dalej. Adam zaczynał podejrzewać, że obecność Karla tutaj nie jest przypadkowa, jednak minęli zdobione burty Srebrnego Kruka bez słowa. Pchali wózek z kucnią polową coraz dalej, w głąb labiryntu bocznych pomostów przy których cumowały mniejsze jednostki. 
 
 
 
