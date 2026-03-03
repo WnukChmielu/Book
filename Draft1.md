@@ -231,6 +231,8 @@ Trójka postaci w zielonych szatach wyszła z gabinetu naczelnego nie podając n
 
 \-Tak, mam wam trochę do wyjaśnienia - przyznał Jake - ale może nie tutaj. Przejdźmy się do ciemni.
 
+------------------------------------------------------------------------------------
+
 Popołudniowa wizyta Jake’a nie wybiła Shane z rytmu pracy. Z zza zamkniętych drzwi szopy dochodziły odgłosy pracy, dziwne, niezrozumiałe dla postronnego ucha inkantacje raz po raz przetykane o wiele bardziej zrozumiałymi przekleństwami. Trwało to aż do zachodu słońca, kiedy Shane starannie zamknęła drzwi na kłódkę i ruszyła na zasłużony odpoczynek do mieszkania ciotki na piętrze jej sklepu.
 
 Minęło kilka godzin i przez podwórze przemknęła efemeryczna plama ciemnej zieleni. Drzwi do pustego warsztatu Shane uchyliły się z cichym jęknięciem, a w wąskiej szparze pojawiła się łysawa głowa Gale’a, pół krwi asystenta młodszego diakona. Oceniwszy wstępnie sytuację, wsunął się do środka. Przemknął wzrokiem po rozbebeszonym zegarze na stoliku, jednak jego uwaga od razu skupiła się na stojących pod ścianą donicach, nad którymi wciąż świeciło się ciepłe światło.
@@ -474,8 +476,23 @@ Karl wziął Adama na bok i pozwolił, żeby to marynarze szarpali się z wozem 
 Adam zacisnął usta i tylko skinął głową. 
 - Masz 15 minut - wcisnął mu w dłoń parę miedziaków - przehandluj ubrania z jakimś dokerem, jak zdążysz, to zetnij włosy. Może kup jakąś czapkę, nie chcę żebyś się rzucał w oczy. Masz ze sobą aparat? 
 Znowu skinienie głową.
-- Schowaj go dobrze, najlepiej trzymaj go zawsze przy sobie. Będę tutaj czekał, jeżeli nie wrócisz zrozumiem. Znajdź wtedy Jake'a i zdaj mu dokładną relację. 
+- Schowaj go dobrze, najlepiej trzymaj go zawsze przy sobie. Poczekam tutaj na ciebie, ale jeżeli nie wrócisz zrozumiem. Znajdź wtedy Jake'a i zdaj mu dokładną relację. 
 - Wrócę - powiedział poważnym tonem Adam i pobiegł czym prędzej znaleźć sobie nowe ubranie.
+
+Dzielnica portowa była nieustannym placem budowy, a jednocześnie połowa ze stojących tu budynków wyglądała jakby miała się zawalić od mocniejszego powiewu wiatru. Było to niczym sama Dearbora w pigułce, z tym że zamiast gruntownych przebudów raz na pokolenie, tutaj działo się to raz na parę lat. Budynki piętrzyły się na sobie, dobudówki z coraz to lżejszych materiałów pasożytowały na poprzednich generacjach konstrukcji tak długo, aż całość nie poddawała się pod ciężarem. 
+
+Mieszkanie Jake'a było w jednej z takich przybudówek. Jego wnętrze stanowiło lustrzane odbicie zewnętrza - po podłodze walały się puste butelki, za źródło wody służyło wiadro stęchłej wody ze studni, za łóżko podły siennik pod ścianą na której leżała kupa ubrań. W jej kształcie ledwo dało się rozróżnić ciało reportera. 
+
+Ktoś załomotał do drzwi. Drugi raz. Trzeci. Kupa ubrań poruszyła się i wydała cichy jęk. Łomotanie ustało i Jake przewrócił się na bok. Błogi spokój nie trwał jednak długo. Znowu ktoś pukał do drzwi, tym razem zauważalnie ciszej. Jeszcze raz i jeszcze, za każdym razem głośniej. W końcu Jake zdołał wykrztusić;
+- Już idę - nie było to jednak prawdą. Spróbował wstać, zatoczył się, oparł się o stolik, blat nie wytrzymał dodatkowego ciężaru. Jake upadł z jękiem przy akomponiamencie brzęku butelek. Łoskot musiał przebić przez drzwi, bowiem pukanie wzmogło się wyrażnie. Reporter zdołał w końcu się zebrać i otworzył drzwi.
+
+Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła Jake'a odskoczyła jakby zobaczyła ducha. Zatkała nos i podała mu zmiętą kartkę. Skacowany reporter złapał ją niepewnie w palce i spróbował zamknąć drzwi. Dziewczynka zablowkowała je stopą.
+- Miałam dostać jeszcze 3 miedziaki - wydusiła za zatkanym nosem - Tak jest napisane na kartce. 
+- Nie powinnaś czytać cudzych wiadomości - wykrztusił zaskoczony Jake - Z resztą pewnie nawet nie potrafisz czytać.
+- On powiedział, że zapisze - wystawiła rękę. 
+Jake nawet nie próbował przeczytać wiadomości. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza w którym zasnął. Wyciągnł z kieszeni garść monet i dał jej srebrną monetę. Chciwość błysnęła w oczach dziewczynki. 
+- Mam dla pana jeszczę jedną wiadomość.
+
 
 
 
