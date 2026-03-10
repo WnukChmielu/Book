@@ -491,7 +491,13 @@ Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła J
 - Nie powinnaś czytać cudzych wiadomości - wykrztusił zaskoczony Jake - Z resztą pewnie nawet nie potrafisz czytać.
 - On powiedział, że zapisze - wystawiła rękę. 
 Jake nawet nie próbował przeczytać wiadomości. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza w którym zasnął. Wyciągnł z kieszeni garść monet i dał jej srebrną monetę. Chciwość błysnęła w oczach dziewczynki. 
-- Mam dla pana jeszczę jedną wiadomość.
+- Mam dla pana jeszczę jedną wiadomość. - schyliła się, i sięgnęła po skrawek papieru z podłogi - To upadło na podłogę, kiedy pan otwierał drzwi. 
+Dziewczynka wyciągnęła dłoń po więcej pieniędzy. Jake dorzucił jej kilka miedziaków, bo, po prawdzie nie był pewien czy zauważyłby drugą wiadomość. Nie zamykając drzwi wciągnął spodnie, wsunał buty, złapał do ręki wiadro i niepewnym krokiem ruszył na podwórze nabrać świeżej wody z pompy. 
+Dwa piętra w dół, kilkanaście machnięć ramieniem pompy a póżniej dwa piętra w górę trochę go rozbudziły. Nalał wody do metalowej misy i spojrzał na swoje odbicie w wodzie. Widok nawet dla niego był odpychający - przekrwione, podkrążone oczy, pożółkłe od tytoniu zęby, tłuste czarne włosy w których siwizna z każdym dniem zdobywała kolejne przyczółki. Skrzywił się, przepłukał twarz i wyciągnął okulary z wewnetrznęj kieszeni leżącego na ziemi płaszcza. Zaczął od wiadomości podniesionej z ziemi. Jego twarz przybierała coraz to bardziej marsowy wyraz kiedy stopniowo przypominał sobie gdzie powinien być dzisiejszego ranka. 
+- Kurwa mać - zaklał pod nosem. Zgubił ostatnio zegarek, ale kiedy schodził po wodę, słońce stało już wysoko. To było do ogarnięcia, z resztą z wiadomości wynikało, że krasnoludy miały wszystko pod kontrolą. Ktoś jednak chciał się z nim spotkać dzisiaj wieczorem. No nic, zawalił dzisiaj rano, ale zabierze młodego z portu i pójdą na to tajemnicze spotkanie. Może młody zrobił jakieś zdjęcia? Dobrze się spisał na dworcu, wykazał inicjatywę. Powinien go pochwalić. 
+
+Otworzył drugą wiadomość, i uznał, że poczeka z pochwałami. Za dużo inicjatywy to też nie dobrze, szczególnie kiedy jest do inicjatywa pchająca Cię w paszczę lwa. Cała nadzieja w tym, że młody nie poszedł sam, jednak Jake zaczął już układać w głowie list, który redakcja wyśle do jego matki. 
+- Kurwa mać - powtórzył i rozejrzał się po lokalu. Jego wzrok wyłowił wśród walających się na ziemii butelek jedną wciąż zakapslowaną i po chwili walki ukoił nerwy kilkoma haustami piwa. Musi iść do redakcji i porozmawiać z naczelnym. Skrzywił nos i przypomniał sobie reakcję dziewczynki na swój widok. Musi iść do łaźni i pralni, a potem do redakcji i porozmawiać z naczelnym. Pociągnął jeszcze z butelki, mimo wszystko zadowolony z siebie. Miał plan.  
 
 
 
