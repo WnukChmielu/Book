@@ -18,12 +18,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Draft1.md",
+                    "file": "Rozdziały/Rozdział 1.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Draft1"
+                  "title": "Rozdział 1"
                 }
               }
             ]
@@ -151,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Draft1.md",
+                "file": "Rozdziały/Rozdział 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Draft1.md",
+                "file": "Rozdziały/Rozdział 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -213,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Draft1.md",
+                "file": "Rozdziały/Rozdział 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -252,14 +252,14 @@
       "lean-terminal:Open Lean Terminal": false
     }
   },
-  "active": "7d15d7dd8ec3bad1",
+  "active": "e18e72986dc8d61d",
   "lastOpenFiles": [
     "Rozdziały/Rozdział 3.md",
     "Rozdziały/Rozdział 2.md",
+    "Rozdziały/Rozdział 1.md",
     "Draft1.md",
     "2026-10-28.md",
     "Planowanie/Wątki postaci.md",
-    "Untitled.canvas",
-    "Rozdziały/Rozdział 1.md"
+    "Untitled.canvas"
   ]
 }

@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "lean-terminal",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-style-settings",
+  "typewriter-mode"
 ]
