@@ -7,7 +7,7 @@
   "sessions": [
     {
       "start": "2026-10-28T21:33:50.254Z",
-      "total": 12431,
+      "total": 0,
       "drafts": {
         "Rozdziały/Całość/Index.md": {
           "total": 0,
@@ -34,12 +34,8 @@
           }
         },
         "TU PISZĘ/TREŚĆ/Index.md": {
-          "total": 12431,
-          "scenes": {
-            "Rozdział 1": 5774,
-            "Rozdział 2": 4090,
-            "Rozdział 3": 2567
-          }
+          "total": 0,
+          "scenes": {}
         }
       }
     }

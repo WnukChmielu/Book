@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "TU PISZĘ/TREŚĆ/Rozdział 1.md",
+                    "file": "TU PISZĘ/Rozdział 1.md",
                     "mode": "source",
                     "source": false
                   },
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TU PISZĘ/TREŚĆ/Rozdział 1.md",
+                "file": "TU PISZĘ/Rozdział 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TU PISZĘ/TREŚĆ/Rozdział 1.md",
+                "file": "TU PISZĘ/Rozdział 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -223,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TU PISZĘ/TREŚĆ/Rozdział 1.md",
+                "file": "TU PISZĘ/Rozdział 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -264,11 +264,11 @@
   },
   "active": "341bb4cdbb578885",
   "lastOpenFiles": [
-    "TU PISZĘ/TREŚĆ/CAŁOŚĆ.md",
-    "TU PISZĘ/TREŚĆ/Rozdział 1.md",
-    "TU PISZĘ/TREŚĆ/Rozdział 2.md",
-    "TU PISZĘ/TREŚĆ/Rozdział 3.md",
+    "TU PISZĘ/Rozdział 3.md",
+    "TU PISZĘ/Rozdział 2.md",
+    "TU PISZĘ/Rozdział 1.md",
     "TU PISZĘ/TREŚĆ/Index.md",
+    "TU PISZĘ/TREŚĆ/CAŁOŚĆ.md",
     "# Moja Książka![Rozdział 1]]---![[Rozdział 2]]---![[Rozdział 3]].md",
     "TU PISZĘ/TREŚĆ",
     "Rozdziały/Test.md",
