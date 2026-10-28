@@ -90,13 +90,17 @@ Znowu skinienie głową.
 ---
 
 Dzielnica portowa była nieustannym placem budowy, a jednocześnie połowa ze stojących tu budynków wyglądała, jakby miała się zawalić od mocniejszego powiewu wiatru. Było to niczym sama Dearbora w pigułce, z tym że zamiast gruntownych przebudów raz na pokolenie, tutaj działo się to raz na parę lat. Budynki piętrzyły się na sobie, dobudówki z coraz to lżejszych materiałów pasożytowały na poprzednich generacjach konstrukcji tak długo, aż całość nie poddawała się pod ciężarem.
+
 Mieszkanie Jake'a było w jednej z takich przybudówek. Jego wnętrze stanowiło lustrzane odbicie zewnętrza – po podłodze walały się puste butelki, za źródło wody służyło wiadro stęchłej wody ze studni, za łóżko podły siennik pod ścianą, na którym leżała kupa ubrań. W jej kształcie ledwo dało się rozróżnić ciało reportera.
+
 Ktoś załomotał do drzwi. Drugi raz. Trzeci. Kupa ubrań poruszyła się i wydała cichy jęk. Łomotanie ustało i Jake przewrócił się na bok. Błogi spokój nie trwał jednak długo. Znowu ktoś pukał do drzwi, tym razem zauważalnie ciszej. Jeszcze raz i jeszcze, za każdym razem głośniej. W końcu Jake zdołał wykrztusić:
 – Już idę.
 Nie było to jednak prawdą. Spróbował wstać, zatoczył się, oparł się o stolik, blat nie wytrzymał dodatkowego ciężaru. Jake upadł z jękiem przy akompaniamencie brzęku butelek. Łoskot musiał przebić przez drzwi, bowiem pukanie wzmogło się wyraźnie. Reporter zdołał w końcu się zebrać i otworzył drzwi.
+
 Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła Jake'a, odskoczyła, jakby zobaczyła ducha. Zatkała nos i podała mu zmiętą kartkę. Skacowany reporter złapał ją niepewnie w palce i spróbował zamknąć drzwi. Dziewczynka zablokowała je stopą.
 – Miałam dostać jeszcze 3 miedziaki – wydusiła ze ściśniętym nosem. – Tak jest napisane na kartce.
 – Nie powinnaś czytać cudzych wiadomości – wykrztusił zaskoczony Jake. – Zresztą pewnie nawet nie potrafisz czytać.
 – On powiedział, że zapisze – wystawiła rękę.
+
 Jake nawet nie próbował przeczytać wiadomości. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. Wyciągnął z kieszeni garść monet i dał jej srebrną monetę. Chciwość błysnęła w oczach dziewczynki.
 – Mam dla pana jeszcze jedną wiadomość.
