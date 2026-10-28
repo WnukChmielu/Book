@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rozdziały/Rozdział 1.md",
+                    "file": "Rozdziały/Test/Rozdział 1.md",
                     "mode": "source",
                     "source": false
                   },
@@ -32,7 +32,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rozdziały/Rozdział 1.md",
+                    "file": "Rozdziały/Test/Rozdział 1.md",
                     "mode": "source",
                     "source": false
                   },
@@ -46,7 +46,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Rozdziały/Rozdział 2.md",
+                    "file": "Rozdziały/Test/Rozdział 2.md",
                     "mode": "source",
                     "source": false
                   },
@@ -60,16 +60,44 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "# Moja Książka![Rozdział 1]]---![[Rozdział 2]]---![[Rozdział 3]].md",
+                    "file": "Rozdziały/Test/Index.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "# Moja Książka![Rozdział 1]]---![[Rozdział 2]]---![[Rozdział 3]]"
+                  "title": "Index"
+                }
+              },
+              {
+                "id": "13f4b6d1750625fa",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rozdziały/Test/Index.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Index"
+                }
+              },
+              {
+                "id": "341bb4cdbb578885",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Rozdziały/Test/CAŁOŚĆ.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "CAŁOŚĆ"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 5
           },
           {
             "id": "24600ba3371839ff",
@@ -204,7 +232,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "# Moja Książka![Rozdział 1]]---![[Rozdział 2]]---![[Rozdział 3]].md",
+                "file": "Rozdziały/Test/CAŁOŚĆ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +251,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "# Moja Książka![Rozdział 1]]---![[Rozdział 2]]---![[Rozdział 3]].md",
+                "file": "Rozdziały/Test/CAŁOŚĆ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -266,7 +294,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "# Moja Książka![Rozdział 1]]---![[Rozdział 2]]---![[Rozdział 3]].md",
+                "file": "Rozdziały/Test/CAŁOŚĆ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -305,15 +333,18 @@
       "lean-terminal:Open Lean Terminal": false
     }
   },
-  "active": "743da017822c4c2b",
+  "active": "341bb4cdbb578885",
   "lastOpenFiles": [
-    "Rozdziały/Rozdział 1.md",
+    "Rozdziały/Test/Rozdział 3.md",
+    "Rozdziały/Test/Rozdział 2.md",
+    "Rozdziały/Test/Rozdział 1.md",
+    "Rozdziały/Test/Index.md",
+    "Rozdziały/Test/CAŁOŚĆ.md",
     "# Moja Książka![Rozdział 1]]---![[Rozdział 2]]---![[Rozdział 3]].md",
+    "Rozdziały/Test",
     "Rozdziały/Test.md",
     "Untitled.canvas",
-    "Rozdziały/Rozdział 2.md",
     "README.md",
-    "Rozdziały/Rozdział 3.md",
     "Rozdziały/Całość/Index.md",
     "Rozdziały/Całość",
     "Draft1.md",

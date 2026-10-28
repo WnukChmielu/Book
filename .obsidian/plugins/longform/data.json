@@ -1,13 +1,13 @@
 {
   "version": 3,
   "projects": {},
-  "selectedDraftVaultPath": "Rozdziały/Test.md",
+  "selectedDraftVaultPath": "Rozdziały/Test/Index.md",
   "userScriptFolder": null,
   "sessionStorage": "data",
   "sessions": [
     {
       "start": "2026-10-28T21:33:50.254Z",
-      "total": 0,
+      "total": 12391,
       "drafts": {
         "Rozdziały/Całość/Index.md": {
           "total": 0,
@@ -16,6 +16,14 @@
         "Rozdziały/Test.md": {
           "total": 0,
           "scenes": {}
+        },
+        "Rozdziały/Test/Index.md": {
+          "total": 12391,
+          "scenes": {
+            "Rozdział 1": 5734,
+            "Rozdział 2": 4090,
+            "Rozdział 3": 2567
+          }
         }
       }
     }
