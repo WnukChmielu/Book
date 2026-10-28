@@ -5,7 +5,7 @@ zabije. Może nie będą musieli nawet sprzątać.
 
 To była jednak sprawa odległej przyszłości. Ta bliższa przyszłość bardziej niepokoiła Aren, która w wyniku nie do końca nieoczekiwanych zgonów jej przełożonych stała się pierwszą z równych, nietytułowaną przywódczynią ich ekspedycji. Według niej załoga misji została skompletowana pochopnie, być może z zamiarem pozbycia się w ten sposób niechcianych osób. Dużo mówiło to o zakładanych szansach powodzenia, i wiele wskazywało na to, że były to właściwe założenia. Wydawanie poleceń spadło więc na jej barki, i nie było to zadanie proste, jej współtowarzysze od początku byli krnąbrni i nienauczeni pracy w zespole. Zimno, głód i towarzysząca im od wielu dni groźba śmierci jeszcze to potęgowały. Na szczęście jej następne decyzje miały przysporzyć jej popularności – przed przystąpieniem do następnej części ich zadania musieli się najeść, odpocząć i nabrać sił. Inaczej mogli równie dobrze usiąść, nacieszyć się widokiem i umrzeć.
 
-
+---
 
 Zespół dworcowy był jednym z dwóch węzłów logistycznych miasta. Drugim, położonym kilka kilometrów na wschód był port, położony niemal dokładnie w miejscu lądowania pierwszych osadników. Pomiędzy nimi leżało miasto, w którym wprawne oko mogło zauważyć kolejne impulsy masowej emigracji do Nowego Świata. Z lotu ptaka miasto wyglądało jak zlepek elementów zebranych z setek innych miejsc na świecie, style architektoniczne i założenia przestrzenne w niektórych miejscach gryzły się ze sobą, w niektórych co chwila się nadpisywały, żeby w końcu osiągnąć stan równowagi aż do następnego napływu nowych osadników, którzy nadadzą temu miejscu zupełnie obcy charakter.
 
