@@ -4,24 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "f05e900f30f396e3",
-        "type": "tabs",
+        "id": "68bc5647bd05fb3f",
+        "type": "split",
         "children": [
           {
-            "id": "e18e72986dc8d61d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026-10-28.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-10-28"
-            }
+            "id": "f05e900f30f396e3",
+            "type": "tabs",
+            "dimension": 52.32558139534884,
+            "children": [
+              {
+                "id": "e18e72986dc8d61d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Draft1.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Draft1"
+                }
+              }
+            ]
+          },
+          {
+            "id": "24600ba3371839ff",
+            "type": "tabs",
+            "dimension": 47.674418604651166,
+            "children": [
+              {
+                "id": "7d15d7dd8ec3bad1",
+                "type": "leaf",
+                "state": {
+                  "type": "terminal-view",
+                  "state": {
+                    "tabs": [
+                      {
+                        "name": "Terminal 1",
+                        "color": "",
+                        "cwd": "C:\\Users\\szymo\\Book",
+                        "bufferSerial": "Microsoft Windows [Version 10.0.26200.8246]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\szymo\\Book>git pull\r\nremote: Enumerating objects: 11, done.\r\nremote: Counting objects: 100% (11/11), done.\r\nremote: Compressing git commit    (5/5), done.\r\n[main 9399cf6] Merge branch 'main' of https://github.com/WnukChmielu/Book\r\nUnpacking objects: 100% (9/9), 5.44 KiB | 159.00 KiB/s, done.\r\nC:\\Users\\szymo\\Book>            elu/Book\r\n   d6210f3..ef8ef08  main       -> origin/main\r\nwarning: in the working copy of '.obsidian/community-plugins.json', LF will be replaced by CRLF the next time Git touches it\r\nwarning: in the working copy of '.obsidian/workspace.json', LF will be replaced by CRLF the next time Git touches it\r\nAuto-merging Draft1.md\r\nCONFLICT (content): Merge conflict in Draft1.md\r\nAutomatic merge failed; fix conflicts and then commit the result.\r\n\r\nC:\\Users\\szymo\\Book>git commit\r\nU\u001b[7CDraft1.md\r\nerror: Committing is not possible because you have unmerged files.\r\n\u001b[33mhint: Fix them up in the work tree, and then use 'git add/rm <file>'\r\nhint: as appropriate to mark resolution and make a commit.\r\n\u001b[0mfatal: Exiting because of an unresolved conflict.\r\n\r\nC:\\Users\\szymo\\Book>\u001b[15A\u001b[?1004h"
+                      },
+                      {
+                        "name": "Terminal 2",
+                        "color": "",
+                        "cwd": "C:\\Users\\szymo\\Book",
+                        "bufferSerial": "Microsoft Windows [Version 10.0.26200.8246]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\szymo\\Book>git commit\r\nOn branch main\r\nYour branch is ahead of 'origin/main' by 2 commits.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/lean-terminal/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\szymo\\Book>git push  \r\nEnumerating objects: 26, done.\r\nCounting objects: 100% (26/26), done.\r\nDelta compression using up to 12 threads\r\nCompressing objects: 100% (17/17), done.\r\nWriting objects: 100% (22/22), 303.16 KiB | 6.45 MiB/s, done.\r\nTotal 22 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)\r\nremote: Resolving deltas: 100% (2/2), completed with 1 local object.\r\nTo https://github.com/WnukChmielu/Book.git\r\n   ef8ef08..9399cf6  main -> main\r\n\r\nC:\\Users\\szymo\\Book>\u001b[?1004h"
+                      }
+                    ],
+                    "activeIndex": 1
+                  },
+                  "icon": "terminal",
+                  "title": "Lean Terminal"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -110,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2026-10-28.md",
+                "file": "Draft1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +170,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2026-10-28.md",
+                "file": "Draft1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -172,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-10-28.md",
+                "file": "Draft1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -207,17 +248,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "lean-terminal:Open Lean Terminal": false
     }
   },
-  "active": "e18e72986dc8d61d",
+  "active": "7d15d7dd8ec3bad1",
   "lastOpenFiles": [
-    "Draft1.md",
-    "Rozdziały/Rozdział 2.md",
-    "Planowanie/Wątki postaci.md",
-    "2026-10-28.md",
-    "Untitled.canvas",
     "Rozdziały/Rozdział 3.md",
+    "Rozdziały/Rozdział 2.md",
+    "Draft1.md",
+    "2026-10-28.md",
+    "Planowanie/Wątki postaci.md",
+    "Untitled.canvas",
     "Rozdziały/Rozdział 1.md"
   ]
 }
