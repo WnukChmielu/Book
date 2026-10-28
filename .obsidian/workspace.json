@@ -32,7 +32,21 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Preview.md",
+                    "file": "TU PISZĘ/TREŚĆ/manuscript.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "manuscript"
+                }
+              },
+              {
+                "id": "fab7f122a205742d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "TU PISZĘ/Preview.md",
                     "mode": "source",
                     "source": false
                   },
@@ -41,7 +55,7 @@
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "24600ba3371839ff",
@@ -176,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preview.md",
+                "file": "TU PISZĘ/Preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Preview.md",
+                "file": "TU PISZĘ/Preview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -238,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Preview.md",
+                "file": "TU PISZĘ/Preview.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -277,14 +291,15 @@
       "lean-terminal:Open Lean Terminal": false
     }
   },
-  "active": "3f49f65c99d9752a",
+  "active": "fab7f122a205742d",
   "lastOpenFiles": [
+    "TU PISZĘ/TREŚĆ/manuscript.md",
+    "TU PISZĘ/TREŚĆ/Rozdział 2.md",
+    "TU PISZĘ/TREŚĆ/Rozdział 3.md",
+    "TU PISZĘ/Preview.md",
+    "Draft1.md",
     "Pasted image 20261028225747.png",
     "TU PISZĘ/TREŚĆ/Rozdział 1.md",
-    "Preview.md",
-    "TU PISZĘ/TREŚĆ/manuscript.md",
-    "TU PISZĘ/TREŚĆ/Rozdział 3.md",
-    "TU PISZĘ/TREŚĆ/Rozdział 2.md",
     "TU PISZĘ/TREŚĆ/Index.md",
     "TU PISZĘ/TREŚĆ",
     "TU PISZĘ/TREŚĆ/CAŁOŚĆ.md",
@@ -294,7 +309,6 @@
     "README.md",
     "Rozdziały/Całość/Index.md",
     "Rozdziały/Całość",
-    "Draft1.md",
     "2026-10-28.md",
     "Planowanie/Wątki postaci.md"
   ]
