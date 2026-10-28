@@ -45,8 +45,12 @@ Shane pokiwała głową. Trwająca wiele tygodni przeprawa przez ocean z samym s
 ---
 
 Adam krążył zdenerwowany po nabrzeżu. Już jakiś czas temu porzucił pozory skrytości, zresztą z minuty na minutę wydawało mu się, że jego wcześniejsze próby nierzucania się w oczy przynosiły wręcz przeciwny efekt. Uwijający się w pocie czoła dokerzy co chwila przeganiali go z kolejnych kryjówek za stertami skrzyń, wyśmiewając go za każdym razem głośniej i wulgarniej. Srebrny Kruk i towarzysząca mu flotylla zbierały się do drogi, a młody dziennikarz nie miał pojęcia, jak dostać się na pokład. I gdzie do cholery był Jake? Mieli spotkać się prawie dwie godziny temu!
+
 Załamany przysiadł na słupku i schował twarz w dłoniach. W jego głowie konkurowały ze sobą dwa scenariusze – albo wciśnie się do jednej z wnoszonych na pokład skrzyń, albo wróci do miasta i spróbuje się dowiedzieć, co spotkało Jake'a. Perspektywa ukrywania się wśród ładunku Szarego Kruka i samodzielnego szukania bogowie wiedzą czego przerażała go, przez co druga, rozsądniejsza opcja jeszcze bardziej śmierdziała mu tchórzostwem. Tak jak wtedy na dworcu czuł, że powinien się wykazać, jednak myśl o tym, że na pokładzie statku miałoby wydarzyć się coś podobnego do tego, co zobaczył wczoraj na dworcu, przewracała mu w żołądku.
-Jego gonitwę myśli przerwał donośny brzęk metalu i głośne krasnoludzkie przekleństwa, które zdołały przebić portową wrzawę. Podniósł głowę i zobaczył przed sobą scenę, na którą absolutnie nie był przygotowany. Krasnolud, ten sam, u którego jedli burrito pod dworcem, zmywał głowę swojemu pomocnikowi. U ich stóp leżał potężny, kilkudziesięciolitrowy gar, z którego smutno wylewało się czerwono-brązowe chilli. Garnek spadł z czegoś, co zapewne było kuchnią polową przewożoną na naprędce przystosowanym do tego wozie. Wyrwany z niemocy Adam stwierdził, że takie spotkanie nie może być dziełem przypadku i podszedł do bordowego ze złości Karla. Ten, zaaferowany ratowaniem reszty potrawy, zupełnie go nie zauważył.
+
+Jego gonitwę myśli przerwał donośny brzęk metalu i głośne krasnoludzkie przekleństwa, które zdołały przebić portową wrzawę. Podniósł głowę i zobaczył przed sobą scenę, na którą absolutnie nie był przygotowany. Krasnolud, ten sam, u którego jedli burrito pod dworcem, zmywał głowę swojemu pomocnikowi. U ich stóp leżał potężny, kilkudziesięciolitrowy gar, z którego smutno wylewało się czerwono-brązowe chilli. Garnek spadł z czegoś, co zapewne było kuchnią polową przewożoną na naprędce przystosowanym do tego wozie. Wyrwany z niemocy Adam stwierdził, że takie spotkanie nie może być dziełem przypadku i podszedł do bordowego ze złości Karla. 
+
+Ten, zaaferowany ratowaniem reszty potrawy, zupełnie go nie zauważył.
 – Co tutaj robisz? – zapytał Adam, siląc się na niezobowiązujący ton, jednak krasnolud aż podskoczył.
 – Ja? Co ty tutaj robisz, dzieciaku? – niemal wykrzyczał krasnolud. – Gdzie jest Jake?
 – Skąd wiesz, że miał tutaj być?
@@ -55,15 +59,20 @@ Jego gonitwę myśli przerwał donośny brzęk metalu i głośne krasnoludzkie p
 – Czemu? – oczy krasnoluda zwęziły się. – Coś się stało?
 – Nie wiem, czekam tutaj na niego chyba dwie godziny. Czemu cię to interesuje?
 – Myślę, że ci sami ludzie, którzy doprowadzili do tej pieprzonej katastrofy… – ruchem głowy wskazał na zmieszane z piachem chilli, które jego pomocnik zbierał za pomocą poobijanej pokrywki do garnka – …zaaranżowali wasze spotkanie tutaj. Mieliście obserwować Srebrnego Kruka?
+
 Adam skinął tylko głową. Odzyskujący naturalne kolory krasnolud przywołał swojego pomocnika i wysłał go pod adres w dzielnicy przylegającej do portu.
 – To podła dzielnica – zauważył chłopak. – Jake tam mieszka?
 Krasnolud tylko wzruszył ramionami.
 – Pomóż mi z tym bałaganem – poprosił głosem nieznoszącym sprzeciwu. – A potem porozmawiamy trochę o twojej karierze.
+
 Posprzątanie całego bałaganu nie wchodziło nawet w grę – rozlanym na ziemi chili bardzo szybko zainteresowały się mewy, które kiedy nie walczyły o smaczniejsze kąski między sobą, skutecznie współpracowały przy odstraszaniu człowieka i krasnoluda. Zrezygnowani, zapakowali garnek na wóz i ruszyli dalej. Adam zaczynał podejrzewać, że obecność Karla tutaj nie jest przypadkowa, jednak minęli zdobione burty Srebrnego Kruka bez słowa. Pchali wózek z kuchnią polową coraz dalej, w głąb labiryntu bocznych pomostów, przy których cumowały mniejsze jednostki.
-Zatrzymali się przed okrętem, który, według Adama, miałby problemy z odbiciem od nabrzeża, a co dopiero z przebyciem drogi przez ocean. Bez żadnego sygnału ze statku opadł trap i zbiegł z niego zdenerwowany mężczyzna w oficerskim stroju.
+Zatrzymali się przed okrętem, który, według Adama, miałby problemy z odbiciem od nabrzeża, a co dopiero z przebyciem drogi przez ocean. 
+
+Bez żadnego sygnału ze statku opadł trap i zbiegł z niego zdenerwowany mężczyzna w oficerskim stroju.
 – Nareszcie! Ile można czekać? – zawiesił głos i jakby po raz pierwszy zobaczył zawartość wózka. – Co to ma być? Co ci strzeliło do tego krasnoludziego łba?
 – Nie będę gotował na tym, co nazywacie na tej krypie kuchnią – spokojnie odpowiedział Karl. – Wniesienie tego nie zajmie nam długo, a wam już to nie zrobi różnicy.
 – Przyślę wam ludzi do pomocy – najwidoczniej oficer chciał już to mieć po prostu z głowy. – Jeszcze jedno opóźnienie, i będziemy musieli odpłynąć z wieczornym przypływem.
+
 Karl wziął Adama na bok i pozwolił, żeby to marynarze szarpali się z wozem w górę trapu.
 – Posłuchaj, młody – zniżył głos do konspiracyjnego szeptu. – Wiem, po co mieliście się spotkać z Jakiem. Szczerze mówiąc, miałem nadzieję, że też się z nim spotkam przed wejściem na pokład…
 – Skrzynia z dworca wcale nie płynie Srebrnym Krukiem, prawda? – przerwał mu chłopak głosem, który z przejęcia wchodził w wysokie tony. – Widziałem, jak zaświeciły ci się oczy, kiedy wspomniałem o symbolu. Co tak naprawdę wiesz?
