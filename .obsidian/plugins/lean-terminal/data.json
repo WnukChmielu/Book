@@ -24,6 +24,13 @@
   "recentSessionsMax": 10,
   "recentSessions": [
     {
+      "name": "Terminal 2",
+      "color": "",
+      "cwd": "C:\\Users\\szymo\\Book",
+      "bufferSerial": "Microsoft Windows [Version 10.0.26200.8246]\r\n(c) Microsoft Corporation. All rights reserved.\r\n\r\nC:\\Users\\szymo\\Book>git commit\r\nOn branch main\r\nYour branch is ahead of 'origin/main' by 2 commits.\r\n  (use \"git push\" to publish your local commits)\r\n\r\nChanges not staged for commit:\r\n  (use \"git add <file>...\" to update what will be committed)\r\n  (use \"git restore <file>...\" to discard changes in working directory)\r\n\u001b[8C\u001b[31mmodified:   .obsidian/community-plugins.json\r\n\u001b[8Cmodified:   .obsidian/workspace.json\r\n\r\n\u001b[0mUntracked files:\r\n  (use \"git add <file>...\" to include in what will be committed)\r\n\u001b[8C\u001b[31m.obsidian/plugins/lean-terminal/\r\n\r\n\u001b[0mno changes added to commit (use \"git add\" and/or \"git commit -a\")\r\n\r\nC:\\Users\\szymo\\Book>git push  \r\nEnumerating objects: 26, done.\r\nCounting objects: 100% (26/26), done.\r\nDelta compression using up to 12 threads\r\nCompressing objects: 100% (17/17), done.\r\nWriting objects: 100% (22/22), 303.16 KiB | 6.45 MiB/s, done.\r\nTotal 22 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)\r\nremote: Resolving deltas: 100% (2/2), completed with 1 local object.\r\nTo https://github.com/WnukChmielu/Book.git\r\n   ef8ef08..9399cf6  main -> main\r\n\r\nC:\\Users\\szymo\\Book>\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\r\n\r\n\u001b[33mTerminal binaries not installed.\r\n\u001b[0mGo to Settings → Terminal to download them.\r\n\u001b[?1004h",
+      "closedAt": 1793565484028
+    },
+    {
       "name": "Terminal 1",
       "color": "",
       "cwd": "C:\\Users\\szymo\\Book",

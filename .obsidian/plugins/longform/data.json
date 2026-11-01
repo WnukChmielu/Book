@@ -6,6 +6,20 @@
   "sessionStorage": "data",
   "sessions": [
     {
+      "start": "2026-11-01T20:36:09.113Z",
+      "total": 0,
+      "drafts": {
+        "TU PISZĘ/TREŚĆ/Index.md": {
+          "total": 0,
+          "scenes": {
+            "Rozdział 1": 0,
+            "Rozdział 2": 0,
+            "Rozdział 3": 0
+          }
+        }
+      }
+    },
+    {
       "start": "2026-10-28T21:33:50.254Z",
       "total": 12401,
       "drafts": {
