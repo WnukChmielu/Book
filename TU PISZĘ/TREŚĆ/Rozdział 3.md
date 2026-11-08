@@ -109,6 +109,7 @@ Jake nawet nie trudził się, żeby sprawdzić jej wersję. Nigdy by się do teg
 
 Stał tak przez kilka sekund, w ciszy opłakując kolejny cios zadany jego finansom na jego własne życzenie. W końcu westchnął głośno, domknął drzwi i usiadł na jedynym w pokoju krześle, które stało teraz pośród szczątków stolika. Wyciągnął z płaszcza jakimś cudem niestrzaskane okulary w drucianej oprawce i przeczytał obydwie wiadomości. 
 
-Pierwsza, ta wciśnięta we framugę wprawiła go w poczucie winy - przypomniał sobie bowiem co powininen był robić tego poranka zamiast leczyć kaca. Dawała mu jednak szansę na odkupienie - krasnolud chciał, żeby podszedł do jego budki pod dworcem i porozmawiał z krórymś z jego wielu kuzynów o tym, jak może pomóc na miejscu jeżeli nie zdołał dotrzeć do portu..
+Pierwsza, ta wciśnięta we framugę wprawiła go w poczucie winy - przypomniał sobie bowiem co powininen był robić tego poranka zamiast leczyć kaca. Dawała mu jednak szansę na odkupienie - krasnolud chciał, żeby podszedł do jego budki pod dworcem i porozmawiał z krórymś z jego wielu kuzynów o tym, jak może pomóc na miejscu jeżeli nie zdołał dotrzeć do portu.
 
-Druga, ta którą dostał 
+Druga, ta którą dostał dziewczynka miała mu naprawdę dostarczyć, była jeszcze gorsza :
+*Cześć Jake, nie wiem dlaczego się nie pojawiłeś w porcie. *
