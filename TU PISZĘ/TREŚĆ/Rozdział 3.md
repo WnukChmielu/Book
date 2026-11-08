@@ -117,4 +117,6 @@ Uderzyłby ze złości pięścią w stół, gdyby miał w co uderzyć. Drugim wy
 
 Uderzył w udo jeszcze raz. To była jego wina. Jego, i jego zachlanej mordy. Wiedział, że pije za dużo, jednak wydawało mu się cały czas, że ma to pod kontrolą. Spojrzał na pokój. Kurwa mać! Pod kontrolą!? Spać w takim miejscu i miec czelność mówić że ma się to pod kontrolą? To się musi skończyć!
 
-Nie było to jednak pierwsze przebudzenie Jake'a. Od kiedy wrócił ze Starego Świata, pił coraz więcej. Na początku pił wieczorami do nieprzytomności - jeżeli tego nie robił prześladowały go twarze ludzi których zostawił na tamtym brzegu, wspomnienia mordów, których elfowie nie chcieli zaprzestać nawet wtedy, kiedy byli całkowicie pewni zwycięstwa. Potem obrazy zaczęły przychodzić za dnia, pił więc za dnia. Potem    
+Nie było to jednak pierwsze przebudzenie Jake'a. Od kiedy wrócił ze Starego Świata, pił coraz więcej. Na początku pił wieczorami do nieprzytomności - jeżeli tego nie robił prześladowały go twarze ludzi których zostawił na tamtym brzegu, wspomnienia mordów, których elfowie nie chcieli zaprzestać nawet wtedy, kiedy byli całkowicie pewni zwycięstwa. Potem obrazy zaczęły przychodzić za dnia, pił więc za dnia. Potem bez alkoholu plątały mu się myśli i trzęsły dłonie - pił więc, żeby normalnie funkcjonować. 
+
+W redakcji zwrócili na to uwagę - stary Gęba, zupełnie nie w jego stylu, wziął go na stronę i wyjaśnił jak to wygląda. 
