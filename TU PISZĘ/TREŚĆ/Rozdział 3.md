@@ -104,5 +104,4 @@ Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła J
 – Nie powinnaś czytać cudzych wiadomości – wykrztusił zaskoczony Jake. – Zresztą pewnie nawet nie potrafisz czytać.
 – On powiedział, że zapisze – wystawiła rękę.
 
-Jake nawet nie trudził się, żeby sprawdzić jej wersję. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. W końcu jedna zabrzęczała zachęcająco, na ślepo wyciągnął z niej srebrną monetę.  Chciwość błysnęła w oczach dziewczynki.
-– Mam dla pana jeszcze jedną wiadomość - to nie była do końca prawda, bowiem zastała wiado
+<p align="justify">Jake nawet nie trudził się, żeby sprawdzić jej wersję. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. W końcu jedna zabrzęczała zachęcająco, na ślepo wyciągnął z niej srebrną monetę.  Chciwość błysnęła w oczach dziewczynki. Zanim reporter zdążył zareagować, capnęła monetę i uciekła w mrok klatki schodowej. </p>
