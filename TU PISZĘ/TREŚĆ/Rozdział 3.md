@@ -1,4 +1,4 @@
-*Pośród białych, elfich kości dało się dostrzec pojedyncze strzępki grubej, zielonej tkaniny. Aren obracała w palcach guzik, wygrzebany z ziemi przez jednego ze zwiadowców. Był cały poczerniały, jednak nie trzeba było wiele wyobraźni, żeby dopasować go do guzików płaszcza, który miała na sobie. Od kiedy ją tutaj sprowadzili, nie wymienili ani słowa. Wnioski nasuwały się same.*
+<p align="left"></p>*Pośród białych, elfich kości dało się dostrzec pojedyncze strzępki grubej, zielonej tkaniny. Aren obracała w palcach guzik, wygrzebany z ziemi przez jednego ze zwiadowców. Był cały poczerniały, jednak nie trzeba było wiele wyobraźni, żeby dopasować go do guzików płaszcza, który miała na sobie. Od kiedy ją tutaj sprowadzili, nie wymienili ani słowa. Wnioski nasuwały się same.*
 *Wszyscy w Akademii wiedzieli, a przynajmniej zakładali, że ekspedycje podobne do tej wyruszały w poszukiwaniu tej doliny. Jednak równie powszechne założenie głosiło, że żadnej z nich nie udało się tutaj dotrzeć. Czarnowłosa elfka głęboko westchnęła:*
 
 *– Sprowadźcie wszystkich do obozu – powiedziała stanowczo. – Dopóki nie wrócę, żadnej magii, nawet do rozpalania ognia. Ja się tutaj jeszcze trochę rozejrzę.*
@@ -104,7 +104,6 @@ Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła J
 – Nie powinnaś czytać cudzych wiadomości – wykrztusił zaskoczony Jake. – Zresztą pewnie nawet nie potrafisz czytać.
 – On powiedział, że zapisze – wystawiła rękę.
 
-<p align="justify">Jake nawet nie trudził się, żeby sprawdzić jej wersję. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. W końcu jedna zabrzęczała zachęcająco, na ślepo wyciągnął z niej srebrną monetę.  Chciwość błysnęła w oczach dziewczynki.
-
--Mam dla pana jeszcze jedną wiadomość - to nie była do końca prawda, wciśnięta za framugę kartka należała bowiem do pierwszego pukającego i była wciśnięta na słowo honoru za framugę drzwi. Nawet ktoś w pełni władz umysłowych mógłby ją przeoczyć, więc w sumie dziewczynka nie skłamała zupełnie. Zanim reporter zdążył zareagować, wcisnęła mu w dłoń drugą kartkę, capnęła monetę i uciekła w mrok klatki schodowej.   </p> 
+Jake nawet nie trudził się, żeby sprawdzić jej wersję. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. W końcu jedna zabrzęczała zachęcająco, na ślepo wyciągnął z niej srebrną monetę.  Chciwość błysnęła w oczach dziewczynki.
+-Mam dla pana jeszcze jedną wiadomość - to nie była do końca prawda, wciśnięta za framugę kartka należała bowiem do pierwszego pukającego i była wciśnięta na słowo honoru za framugę drzwi. Nawet ktoś w pełni władz umysłowych mógłby ją przeoczyć, więc w sumie dziewczynka nie skłamała zupełnie. Zanim reporter zdążył zareagować, wcisnęła mu w dłoń drugą kartkę, capnęła monetę i uciekła w mrok klatki schodowej.
 <p align="justify"></p>
