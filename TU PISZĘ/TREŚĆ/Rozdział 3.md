@@ -99,10 +99,10 @@ Ktoś załomotał do drzwi. Drugi raz. Trzeci. Kupa ubrań poruszyła się i wyd
 – Już idę.
 Nie było to jednak prawdą. Spróbował wstać, zatoczył się, oparł się o stolik, blat nie wytrzymał dodatkowego ciężaru. Jake upadł z jękiem przy akompaniamencie brzęku butelek. Łoskot musiał przebić przez drzwi, bowiem pukanie wzmogło się wyraźnie. Reporter zdołał w końcu się zebrać i otworzył drzwi.
 
-Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła Jake'a, odskoczyła, jakby zobaczyła ducha. Zatkała nos i podała mu zmiętą kartkę. Skacowany reporter złapał ją niepewnie w palce i spróbował zamknąć drzwi. Dziewczynka zablokowała je stopą.
+Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła Jake'a, odskoczyła, jakby zobaczyła ducha. Zatkała nos i podała mu złożoną na cztery kartkę. Skacowany reporter złapał ją niepewnie w palce i spróbował zamknąć drzwi. Dziewczynka zablokowała je stopą.
 – Miałam dostać jeszcze 3 miedziaki – wydusiła ze ściśniętym nosem. – Tak jest napisane na kartce.
 – Nie powinnaś czytać cudzych wiadomości – wykrztusił zaskoczony Jake. – Zresztą pewnie nawet nie potrafisz czytać.
 – On powiedział, że zapisze – wystawiła rękę.
 
-Jake nawet nie próbował przeczytać wiadomości. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. W końcu jedna zabrzęczała zachęcająco, na ślepo wyciągnął z niej  Chciwość błysnęła w oczach dziewczynki.
-– Mam dla pana jeszcze jedną wiadomość - to nie była do końca prawda.
+Jake nawet nie trudził się, żeby sprawdzić jej wersję. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. W końcu jedna zabrzęczała zachęcająco, na ślepo wyciągnął z niej srebrną monetę.  Chciwość błysnęła w oczach dziewczynki.
+– Mam dla pana jeszcze jedną wiadomość - to nie była do końca prawda, bowiem zastała wiado
