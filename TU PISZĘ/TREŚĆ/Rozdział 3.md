@@ -105,4 +105,4 @@ Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła J
 – On powiedział, że zapisze – wystawiła rękę.
 
 Jake nawet nie próbował przeczytać wiadomości. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. Wyciągnął z kieszeni garść monet i dał jej srebrną monetę. Chciwość błysnęła w oczach dziewczynki.
-– Mam dla pana jeszcze jedną wiadomość.
+– Mam dla pana jeszcze jedną wiadomość. Właściwie to przesyłkę
