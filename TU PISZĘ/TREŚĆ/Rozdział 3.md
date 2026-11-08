@@ -115,6 +115,6 @@ Druga, ta którą dostał dziewczynka miała mu naprawdę dostarczyć, była jes
 *Cześć Jake, nie wiem dlaczego się nie pojawiłeś w porcie. Spotkałem XYZ (<font color="#92d050">wymyśleć nazwisko krasnoluda)</font>, Srebrny Kruk to podpucha. Skrzynia płynie zupełnie innym statkiem, XYZ zaciągnął się tam jako kucharz. Wejdę na pokład jako jego pomocnik, nie będę spuszczał skrzyni z oka. Znajdę jakiś sposób żeby się skontaktować. Przekaż mojej matce że nic mi nie będzie.*
 Uderzyłby ze złości pięścią w stół, gdyby miał w co uderzyć. Drugim wyborem było jego udo, i to jemu zadał cios, tak mocny że aż się skrzywił. Co on sobie myślał? Zaciągnął się jako pomocnik kucharza?! Lubił chłopaka, ale ten był chyba za bardzo przyzwyczajony do magii swojego nazwiska. Ciekawe ile mil morskich trzeba, żeby ta przestała działać i spiczaści wyrzucili go po prostu za burtę. 
 
-Uderzył w udo jeszcze raz. To była jego wina. Jego, i jego zachlanej mordy. Wiedział, że pije za dużo, jednak wydawało mu się cały czas, że ma to pod kontrolą. Spojrzał na pokój. Kurwa mać! Pod kontrolą! Spać w takim miejscu i miec czelność mówić że ma się to pod kontrolą? To się musi skończyć!
+Uderzył w udo jeszcze raz. To była jego wina. Jego, i jego zachlanej mordy. Wiedział, że pije za dużo, jednak wydawało mu się cały czas, że ma to pod kontrolą. Spojrzał na pokój. Kurwa mać! Pod kontrolą!? Spać w takim miejscu i miec czelność mówić że ma się to pod kontrolą? To się musi skończyć!
 
-Nie było to jednak pierwsze przeb
+Nie było to jednak pierwsze przebudzenie Jake'a. Od kiedy wrócił ze Starego Świata, pił coraz więcej. Na początku pił wieczorami do nieprzytomności, prześladowały go twarze ludzi których zostawił na tamtym brzegu, wspomnienia  
