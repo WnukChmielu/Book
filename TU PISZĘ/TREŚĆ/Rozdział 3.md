@@ -97,7 +97,7 @@ Mieszkanie Jake'a było w jednej z takich przybudówek. Jego wnętrze stanowiło
 
 Ktoś załomotał do drzwi. Drugi raz. Trzeci. Kupa ubrań poruszyła się i wydała cichy jęk. Łomotanie ustało i Jake przewrócił się na bok. Błogi spokój nie trwał jednak długo. Znowu ktoś pukał do drzwi, tym razem zauważalnie ciszej. Jeszcze raz i jeszcze, za każdym razem głośniej. W końcu Jake zdołał wykrztusić:
 – Już idę.
-Nie było to jednak prawdą. Spróbował wstać, zatoczył się, oparł się o stolik, blat nie wytrzymał dodatkowego ciężaru. Jake upadł z jękiem przy akompaniamencie brzęku butelek. Łoskot musiał przebić przez drzwi, bowiem pukanie wzmogło się wyraźnie. Reporter zdołał w końcu się zebrać i otworzył drzwi.
+Nie było to jednak prawdą. Spróbował wstać, zatoczył się i oparł o stolik. Blat nie wytrzymał dodatkowego ciężaru - Jake upadł z jękiem przy akompaniamencie brzęku butelek. Łoskot musiał przebić przez drzwi, bowiem pukanie wzmogło się wyraźnie. Reporter zdołał w końcu się zebrać i otworzył drzwi.
 
 Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła Jake'a, odskoczyła, jakby zobaczyła ducha. Zatkała nos i podała mu złożoną na cztery kartkę. Skacowany reporter złapał ją niepewnie w palce i spróbował zamknąć drzwi. Dziewczynka zablokowała je stopą.
 – Miałam dostać jeszcze 3 miedziaki – wydusiła ze ściśniętym nosem. – Tak jest napisane na kartce.
@@ -106,4 +106,5 @@ Do drzwi pukała chuda, około dziesięcioletnia dziewczynka. Kiedy zobaczyła J
 
 Jake nawet nie trudził się, żeby sprawdzić jej wersję. Nigdy by się do tego nie przyznał, ale bez okularów miał ostatnio kłopot z rozpoznawaniem twarzy, a co dopiero z czytaniem ręcznego pisma. Poklepał się po kieszeniach płaszcza, w którym zasnął. W końcu jedna zabrzęczała zachęcająco, na ślepo wyciągnął z niej srebrną monetę.  Chciwość błysnęła w oczach dziewczynki.
 -Mam dla pana jeszcze jedną wiadomość - to nie była do końca prawda, wciśnięta za framugę kartka należała bowiem do pierwszego pukającego i była wciśnięta na słowo honoru za framugę drzwi. Nawet ktoś w pełni władz umysłowych mógłby ją przeoczyć, więc w sumie dziewczynka nie skłamała zupełnie. Zanim reporter zdążył zareagować, wcisnęła mu w dłoń drugą kartkę, capnęła monetę i uciekła w mrok klatki schodowej.
-<p align="justify"></p>
+
+Stał tak przez kilka sekund, jakby 
