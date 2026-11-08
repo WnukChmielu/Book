@@ -112,4 +112,5 @@ Stał tak przez kilka sekund, w ciszy opłakując kolejny cios zadany jego finan
 Pierwsza, ta wciśnięta we framugę wprawiła go w poczucie winy - przypomniał sobie bowiem co powininen był robić tego poranka zamiast leczyć kaca. Dawała mu jednak szansę na odkupienie - krasnolud chciał, żeby podszedł do jego budki pod dworcem i porozmawiał z krórymś z jego wielu kuzynów o tym, jak może pomóc na miejscu jeżeli nie zdołał dotrzeć do portu.
 
 Druga, ta którą dostał dziewczynka miała mu naprawdę dostarczyć, była jeszcze gorsza :
-*Cześć Jake, nie wiem dlaczego się nie pojawiłeś w porcie. Spotkałem XYZ (<font color="#92d050">wymyśleć nazwisko krasnoluda)</font>, Srebrny Kruk to podpucha. Skrzynia płynie zupełnie innym statkiem, *
+*Cześć Jake, nie wiem dlaczego się nie pojawiłeś w porcie. Spotkałem XYZ (<font color="#92d050">wymyśleć nazwisko krasnoluda)</font>, Srebrny Kruk to podpucha. Skrzynia płynie zupełnie innym statkiem, XYZ zaciągnął się tam jako kucharz. Wejdę na pokład jako jego pomocnik, nie będę spuszczał skrzyni z oka. Znajdę jakiś sposób żeby się skontaktować. Przekaż mojej matce że nic mi nie będzie.*
+Uderzyłby ze złości pięścią w stół, gdyby miał w co uderzyć. 
