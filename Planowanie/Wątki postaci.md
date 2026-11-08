@@ -48,3 +48,5 @@ Rzeczy do zrobienia na 100%
 Wątek młodego reportera 
 
 1. Na statku spotyka Shane, wypytuje ją o rzeczy o które nie powiniene, ta jednak nie sprzedaje go. 
+2. Mimo wszystko jest nieostrożny i wpada w kłopoty (jak go wydostać ze statku? może statek zatrzymuję się po drodze na jakichś wyspach uzupełniając wodę?)
+3. 
