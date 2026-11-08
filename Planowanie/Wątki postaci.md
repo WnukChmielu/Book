@@ -29,9 +29,9 @@ Rzeczy do zrobienia na 100%
 
 
 
-1. Zaspał na spotkanie z młodym i przychodzi na spotkanie kiedy już obydwa statki odpłynęły
-2. Wbijając klina, kontaktuje się z nim krasnolud, przyjaciel z czasów starego kontynentu, który podrzuca mu pomysł podążania do stacji początkowej pociągu.
-3. na którejś stacji dowiaduje się o dwóch elfich trupach, i spotyka tajemniczą kobietę z zabandażowaną twarzą (to jest nasza elfka z retrospekcji)
+1. Zachlał na spotkanie z młodym i przychodzi na spotkanie kiedy już obydwa statki odpłynęły
+2. Dostaje dokumenty świadczące o tym, że powinien podążyć w stronę, z której przybyła skrzynia.
+3.  Zostaje wyrzucony z pociągu za chlanie i zupełnie przez przypadek na którejś stacji dowiaduje się o dwóch elfich trupach, i spotyka tajemniczą kobietę z zabandażowaną twarzą (to jest nasza elfka z retrospekcji)
 4. Elfka rozpoznaje go i opowiada historię (może przepisać te retrospekcje na pierwszą osobę? Sprawdzić jak to było zrobione w panie lodowego ogrodu)
 5. Czy stary powinien podążyć w głąb doliny z elfką? Może ta powinn nie rozumieć co tak naprawdę wyciągnęła?
 
