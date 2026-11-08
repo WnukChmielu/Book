@@ -41,8 +41,10 @@ Rzeczy do zrobienia na 100%
 
 1. Jest nieufna i podejrzliwa trafiając na statek.
 2. Akademia próbuje kupić jej zaufanie obiecując pełną dokumentację dotyczącą śmierci jej rodziców 8 lat temu i przyjęcie w szeregii akademii (może jej rodzice powinni umrzeć jako członkowie poprzedniej ekspedycji do doliny?)
-3. Bada zawartość skrzyni i uświadamia sobie z czym ma do czynienia
+3. Bada zawartość skrzyni i uświadamia sobie co się dzieje w próbce - ta pozostaje niezmieniona, jednak postępuje jej krstalizacja.
 4. Decyduje się ukrywać część ze swoich odkryć, jednak i tak zostaje przyjęte to z ogromnym entuzjazmem
 5. Zostaje przyjęta po królewsku i być może zaczyna widzieć swoją przyszłość wiążąc się z Akademią.
 
+Wątek młodego reportera 
 
+1. Na statku spotyka Shane, wypytuje ją o rzeczy o które nie powiniene, ta jednak nie sprzedaje go. 
