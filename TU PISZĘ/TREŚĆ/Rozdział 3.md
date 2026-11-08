@@ -5,7 +5,7 @@
 
 *Jeden ze zwiadowców chciał chyba dodać coś od siebie, jej uwaga powędrowała już w kierunku szczątków. Była pewna, że zginęły tutaj przynajmniej trzy osoby, być może cztery, czyli tyle, ile powinno składać się na drużynę zwiadowczą według ich szkolenia. Kilka minut buszowała w gęstym poszyciu, aż spomiędzy mchu i paproci wygrzebała resztki dwóch czaszek i jedną prawie kompletną klatkę piersiową. Kości wyglądały, jakby jakaś siła rozerwała je od wewnątrz. Wbrew temu, co rozkazała swoim ludziom, pozwoliła sobie na zeskanowanie okolicy. Okrąg o promieniu 10 metrów od szczątków był całkowicie wyzuty z magii. Aren nigdy nie doświadczyła takiej pustki. Zawinęła kawałki czaszek w kawałek czystej tkaniny i schowała do torby. Czując, że oblewa ją zimny pot, zaczęła wycofywać się w kierunku obozu.*
 
-To jest do poprawy - nie powinni znaleźć rozerwanych ciał - 
+<font color="#92d050">To jest do poprawy - nie powinni znaleźć rozerwanych ciał !</font>
 
 ---
 

@@ -1,3 +1,7 @@
+
+
+
+
 Jak powinna toczyć się historia?
 
 
@@ -11,7 +15,10 @@ Jak powinna toczyć się historia?
 Rzeczy do zrobienia na 100%
 
 * nowe intro z introdukcją postaci starzejącego się maga, którego ciało zaczyna go zawodzić. Zdaje sobie sprawę z ryzyka, jednak  widzi siebie i swoich towarzyszy jako ostoję stabilności i uważa, że sprawa jest warta ryzyka.
-* ustalić co powinna znaleźć elfia ekspedycja - może wątek retrospekcji należy skrócić, a tym co powinno ich wybijać powinny być nadal krasnoludy, które po prostu zawahały się przed wejściem do doliny (przepisać scenę znalezienia ciała na znalezienie śladów obozowiska)
+  
+<font color="#92d050">  To mi gdzieś kurwa zniknęło XD</font>
+  
+* ustalić co powinna znaleźć elfia ekspedycja - może wątek retrospekcji należy skrócić, a tym co powinno ich wybijać powinny być nadal krasnoludy, które po prostu zawahały się przed wejściem do doliny (przepisać scenę znalezienia ciała na znalezienie śladów obozowiska). Znajdują dobrze zachowane ciała poprzedniej ekspedycji, które wydają się nienadszarpn
 * Mocniej zarysować postaci: -doświadczony reporter powinien być bardziej nieprzyjemnym bucem, takim stereotypowym bohaterem po przejściach, problemy z alkoholem, obskurne mieszkanie itp, szorstki dla nowego reportera -młoda półelfka gotową do poświęceń dla rozwiązania sprawy śmierci swoich rodziców, jednocześnie gardząca akademią (tutaj jednak zostawiłbym wątek pokusy przez władzę, powinny być jakieś podobieństwa do elfki z ekspedycji), -elfka z ekspedycji powinna być pchana do przodu obiecanym przez starszyznę awansem i władzą (może jest od lat pomijana w awansach, może przyłożyła rękę do śmierci niektórych ze swoich towarzyszy podczas drogi przez góry), pytanie czy ekspedycja ją czegoś nauczyła, -młody reporter powinien być niepewnym siebie chłopakiem, który uważa, że nic mu w życiu nie wychodzi (trzeba to jakoś mocniej wyrazić, patrz postać tego młodego lwa, może czasami trzeba uderzyć po prostu młotkiem, a nie zarysowywać to delikatnie)
 * na pewno przemyśleć historię świata, bo wydaje mi się kurwa głupia
 
